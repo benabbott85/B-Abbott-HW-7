@@ -56,3 +56,20 @@ h2 {
     margin-left: 230px;
     
 }
+
+.wrapper {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 20px;
+}
+
+.row1{
+    margin-left: 5px;
+    width: 300px;
+}
+
+.row2{
+    width: 650px;
+    margin-left: -10px;
+}
